@@ -1,4 +1,4 @@
-name: Update Blocklists
+name: Update All Blocklists
 
 on:
   push:
@@ -8,16 +8,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  update-blocklists:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
     - name: Checkout Repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Install XML parsing tools
       run: sudo apt-get install -y xmlstarlet
 
-    - name: Parse RSS Feed and Update domains.txt
+    - name: Download and Process XML
       run: |
         curl -s 'https://palewi.re/docs/news-homepages/rss/sites/all.xml' | xmlstarlet sel -t -m "//item/link" -v . -n > domains.txt
 
@@ -30,12 +34,11 @@ jobs:
     - name: Build Hosts file with 127.0.0.1
       run: sed -e 's/.*/127.0.0.1 &/' domains.txt > hosts_127.0.0.1.txt
 
-    - name: Commit files
-      uses: EndBug/add-and-commit@v5
+    - name: Auto Commit Changes
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        author_name: Anirudh Sriram
-        author_email: techwithanirudh@users.noreply.github.com
-        message: "Updated blocklists"
-        add: "*.txt"
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        commit_message: "Updated blocklists"
+        branch: "${{ github.ref }}"
+        file_pattern: "*.txt"
+        commit_user_name: "Blocklist Updater Bot"
+        commit_user_email: "bots@techwithanirudh.com"
