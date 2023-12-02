@@ -1,6 +1,8 @@
 name: Update All Blocklists
 
 on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight every day
   push:
     branches: [ main ]
   pull_request:
@@ -23,7 +25,11 @@ jobs:
 
     - name: Download and Process CSV
       run: |
-        curl -s 'https://raw.githubusercontent.com/palewire/news-homepages/main/newshomepages/sources/sites.csv' | csvcut -c url | tail -n +2 > domains.txt
+        # Download CSV, extract URLs, get just the domains, and skip the header row
+        curl -s 'https://raw.githubusercontent.com/palewire/news-homepages/main/newshomepages/sources/sites.csv' | 
+        csvcut -c url | 
+        tail -n +2 | 
+        awk -F/ '{print $3}' > domains.txt  # Extracts just the domain part
 
     - name: Build Adguard blocklist
       run: sed -e 's/.*/||&^$important/' domains.txt > hosts_adguard.txt
