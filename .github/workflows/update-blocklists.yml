@@ -3,11 +3,6 @@ name: Update All Blocklists
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs at midnight every day
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-  workflow_dispatch:
 
 jobs:
   update-blocklists:
@@ -46,5 +41,5 @@ jobs:
         commit_message: "Updated blocklists"
         branch: "${{ github.ref }}"
         file_pattern: "*.txt"
-        commit_user_name: "Blocklist Updater Bot"
+        commit_user_name: "Blocklist Updater"
         commit_user_email: "bots@techwithanirudh.com"
