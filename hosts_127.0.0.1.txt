@@ -167,6 +167,7 @@
 127.0.0.1 capitalandmain.com
 127.0.0.1 atlanta.capitalbnews.org
 127.0.0.1 www.capitolnewsillinois.com
+127.0.0.1 www.capradio.org
 127.0.0.1 www.cbc.ca
 127.0.0.1 cbn.globoradio.globo.com
 127.0.0.1 www.cbs46.com
@@ -452,6 +453,7 @@
 127.0.0.1 www.idahostatesman.com
 127.0.0.1 ilanganews.co.za
 127.0.0.1 www.isolezwelesixhosa.co.za
+127.0.0.1 ilmanifesto.it
 127.0.0.1 www.imagekhabar.com
 127.0.0.1 www.indeonline.com
 127.0.0.1 www.independent.co.uk

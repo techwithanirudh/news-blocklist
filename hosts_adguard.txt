@@ -167,6 +167,7 @@
 ||capitalandmain.com^$important
 ||atlanta.capitalbnews.org^$important
 ||www.capitolnewsillinois.com^$important
+||www.capradio.org^$important
 ||www.cbc.ca^$important
 ||cbn.globoradio.globo.com^$important
 ||www.cbs46.com^$important
@@ -452,6 +453,7 @@
 ||www.idahostatesman.com^$important
 ||ilanganews.co.za^$important
 ||www.isolezwelesixhosa.co.za^$important
+||ilmanifesto.it^$important
 ||www.imagekhabar.com^$important
 ||www.indeonline.com^$important
 ||www.independent.co.uk^$important
