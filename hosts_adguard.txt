@@ -796,6 +796,7 @@
 ||www.progress-index.com^$important
 ||www.progresso.com.br^$important
 ||www.providencejournal.com^$important
+||www.proofnews.org^$important
 ||www.propublica.org^$important
 ||publicintegrity.org^$important
 ||www.thepublicopinion.com^$important
@@ -994,7 +995,6 @@
 ||www.marionstar.com^$important
 ||themarkup.org^$important
 ||mendovoice.com^$important
-||themessenger.com^$important
 ||www.thenation.com^$important
 ||www.santafenewmexican.com^$important
 ||www.newportri.com^$important

@@ -796,6 +796,7 @@ www.proceso.com.mx
 www.progress-index.com
 www.progresso.com.br
 www.providencejournal.com
+www.proofnews.org
 www.propublica.org
 publicintegrity.org
 www.thepublicopinion.com
@@ -994,7 +995,6 @@ thelensnola.org
 www.marionstar.com
 themarkup.org
 mendovoice.com
-themessenger.com
 www.thenation.com
 www.santafenewmexican.com
 www.newportri.com

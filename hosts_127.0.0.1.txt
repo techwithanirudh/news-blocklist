@@ -796,6 +796,7 @@
 127.0.0.1 www.progress-index.com
 127.0.0.1 www.progresso.com.br
 127.0.0.1 www.providencejournal.com
+127.0.0.1 www.proofnews.org
 127.0.0.1 www.propublica.org
 127.0.0.1 publicintegrity.org
 127.0.0.1 www.thepublicopinion.com
@@ -994,7 +995,6 @@
 127.0.0.1 www.marionstar.com
 127.0.0.1 themarkup.org
 127.0.0.1 mendovoice.com
-127.0.0.1 themessenger.com
 127.0.0.1 www.thenation.com
 127.0.0.1 www.santafenewmexican.com
 127.0.0.1 www.newportri.com

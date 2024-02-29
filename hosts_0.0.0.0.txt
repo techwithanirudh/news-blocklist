@@ -796,6 +796,7 @@
 0.0.0.0 www.progress-index.com
 0.0.0.0 www.progresso.com.br
 0.0.0.0 www.providencejournal.com
+0.0.0.0 www.proofnews.org
 0.0.0.0 www.propublica.org
 0.0.0.0 publicintegrity.org
 0.0.0.0 www.thepublicopinion.com
@@ -994,7 +995,6 @@
 0.0.0.0 www.marionstar.com
 0.0.0.0 themarkup.org
 0.0.0.0 mendovoice.com
-0.0.0.0 themessenger.com
 0.0.0.0 www.thenation.com
 0.0.0.0 www.santafenewmexican.com
 0.0.0.0 www.newportri.com
