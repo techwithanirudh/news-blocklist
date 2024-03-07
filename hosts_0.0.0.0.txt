@@ -534,6 +534,7 @@
 0.0.0.0 www.kpcw.org
 0.0.0.0 wfpl.org
 0.0.0.0 www.kqed.org
+0.0.0.0 www.krone.at
 0.0.0.0 www.ksn.com
 0.0.0.0 ktla.com
 0.0.0.0 www.ktoo.org
@@ -728,6 +729,7 @@
 0.0.0.0 www.occrp.org
 0.0.0.0 oc-media.org
 0.0.0.0 www.ocregister.com
+0.0.0.0 orf.at
 0.0.0.0 www.theoglethorpeecho.com
 0.0.0.0 www.okayplayer.com
 0.0.0.0 oklahomawatch.org

@@ -534,6 +534,7 @@ www.kpcc.org
 www.kpcw.org
 wfpl.org
 www.kqed.org
+www.krone.at
 www.ksn.com
 ktla.com
 www.ktoo.org
@@ -728,6 +729,7 @@ www.ocala.com
 www.occrp.org
 oc-media.org
 www.ocregister.com
+orf.at
 www.theoglethorpeecho.com
 www.okayplayer.com
 oklahomawatch.org

@@ -534,6 +534,7 @@
 127.0.0.1 www.kpcw.org
 127.0.0.1 wfpl.org
 127.0.0.1 www.kqed.org
+127.0.0.1 www.krone.at
 127.0.0.1 www.ksn.com
 127.0.0.1 ktla.com
 127.0.0.1 www.ktoo.org
@@ -728,6 +729,7 @@
 127.0.0.1 www.occrp.org
 127.0.0.1 oc-media.org
 127.0.0.1 www.ocregister.com
+127.0.0.1 orf.at
 127.0.0.1 www.theoglethorpeecho.com
 127.0.0.1 www.okayplayer.com
 127.0.0.1 oklahomawatch.org

@@ -534,6 +534,7 @@
 ||www.kpcw.org^$important
 ||wfpl.org^$important
 ||www.kqed.org^$important
+||www.krone.at^$important
 ||www.ksn.com^$important
 ||ktla.com^$important
 ||www.ktoo.org^$important
@@ -728,6 +729,7 @@
 ||www.occrp.org^$important
 ||oc-media.org^$important
 ||www.ocregister.com^$important
+||orf.at^$important
 ||www.theoglethorpeecho.com^$important
 ||www.okayplayer.com^$important
 ||oklahomawatch.org^$important
