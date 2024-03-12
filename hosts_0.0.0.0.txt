@@ -874,6 +874,7 @@
 0.0.0.0 www.semafor.com
 0.0.0.0 www.setopati.com
 0.0.0.0 www.sfchronicle.com
+0.0.0.0 sfstandard.com
 0.0.0.0 sgfcitizen.org
 0.0.0.0 www.sheboyganpress.com
 0.0.0.0 www.shelbystar.com

@@ -874,6 +874,7 @@
 127.0.0.1 www.semafor.com
 127.0.0.1 www.setopati.com
 127.0.0.1 www.sfchronicle.com
+127.0.0.1 sfstandard.com
 127.0.0.1 sgfcitizen.org
 127.0.0.1 www.sheboyganpress.com
 127.0.0.1 www.shelbystar.com

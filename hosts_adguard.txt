@@ -874,6 +874,7 @@
 ||www.semafor.com^$important
 ||www.setopati.com^$important
 ||www.sfchronicle.com^$important
+||sfstandard.com^$important
 ||sgfcitizen.org^$important
 ||www.sheboyganpress.com^$important
 ||www.shelbystar.com^$important
