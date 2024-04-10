@@ -878,6 +878,7 @@
 0.0.0.0 sgfcitizen.org
 0.0.0.0 www.sheboyganpress.com
 0.0.0.0 www.shelbystar.com
+0.0.0.0 sherwood.news
 0.0.0.0 thealmanac.net
 0.0.0.0 www.palmbeachdailynews.com
 0.0.0.0 www.shreveporttimes.com

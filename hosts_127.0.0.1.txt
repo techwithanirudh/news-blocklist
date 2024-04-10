@@ -878,6 +878,7 @@
 127.0.0.1 sgfcitizen.org
 127.0.0.1 www.sheboyganpress.com
 127.0.0.1 www.shelbystar.com
+127.0.0.1 sherwood.news
 127.0.0.1 thealmanac.net
 127.0.0.1 www.palmbeachdailynews.com
 127.0.0.1 www.shreveporttimes.com

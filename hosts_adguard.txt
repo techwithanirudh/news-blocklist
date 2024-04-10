@@ -878,6 +878,7 @@
 ||sgfcitizen.org^$important
 ||www.sheboyganpress.com^$important
 ||www.shelbystar.com^$important
+||sherwood.news^$important
 ||thealmanac.net^$important
 ||www.palmbeachdailynews.com^$important
 ||www.shreveporttimes.com^$important
