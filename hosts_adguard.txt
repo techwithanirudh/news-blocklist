@@ -702,6 +702,7 @@
 ||www.niemanlab.org^$important
 ||www.nikkei.com^$important
 ||www.njherald.com^$important
+||notthebee.com^$important
 ||www.northjersey.com^$important
 ||www.norwichbulletin.com^$important
 ||novayagazeta.eu^$important
