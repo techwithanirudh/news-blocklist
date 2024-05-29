@@ -940,6 +940,7 @@
 127.0.0.1 www.thetrace.org
 127.0.0.1 techcrunch.com
 127.0.0.1 www.techmeme.com
+127.0.0.1 technical.ly
 127.0.0.1 www.technologyreview.com
 127.0.0.1 www.teenvogue.com
 127.0.0.1 www.telegram.com

@@ -940,6 +940,7 @@
 ||www.thetrace.org^$important
 ||techcrunch.com^$important
 ||www.techmeme.com^$important
+||technical.ly^$important
 ||www.technologyreview.com^$important
 ||www.teenvogue.com^$important
 ||www.telegram.com^$important

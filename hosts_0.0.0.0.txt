@@ -940,6 +940,7 @@
 0.0.0.0 www.thetrace.org
 0.0.0.0 techcrunch.com
 0.0.0.0 www.techmeme.com
+0.0.0.0 technical.ly
 0.0.0.0 www.technologyreview.com
 0.0.0.0 www.teenvogue.com
 0.0.0.0 www.telegram.com
